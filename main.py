@@ -1,8 +1,8 @@
 from home import Home
 from registration.driver import Driver
 from registration.rider import Rider
-from resoures.distance import Distance
-from resoures.fare import Fare
+from needs.distance import Distance
+from needs.fare import Fare
 
 # this is a main method for application to call all the methods in code
 if __name__ == "__main__":
